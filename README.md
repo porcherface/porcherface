@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hello there :honeybee:
+
+# Some contacts first
+
+- facebook: [Andrea Mazzei](https://www.facebook.com/andreariccetto)
+- discord: porcherface#2404
+- email: [porcherface@gmail.com](mailto:porcherface@gmail.com)
+- phone: +393201198787
+
+# Now on
+
+blockchain! i'm currently very passionate about solidity smart contracts and dapps. i've started two small projects on the ethereum blockchain, go chek them if you are a solidity enjoyer too:
+
+  https://github.com/porcherface/conec-for : a connect4 implementation on the ethereum blockchain
+  https://github.com/porcherface/attr-act  : a NFT factory on the butterfly effect
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porcherface)](https://github.com/anuraghazra/github-readme-stats)
 
