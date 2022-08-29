@@ -1,6 +1,6 @@
-### Hello there :honeybee:
+# Hello there :honeybee:
 
-# Some contacts first
+## Some contacts first
 
 - facebook: [Andrea Mazzei](https://www.facebook.com/andreariccetto)
             [Solidity Devs ITA](https://www.facebook.com/groups/2967497240197165)
@@ -8,7 +8,8 @@
 - email: [porcherface@gmail.com](mailto:porcherface@gmail.com)
 - phone: +393201198787
 - small CV: [Andrea Mazzei](https://github.com/porcherface/for-science/blob/master/cv_mazzei_eng_small.pdf)
-# 🔭 Now on
+
+## 🔭 Now on
 
 blockchain! i'm currently very passionate about solidity smart contracts and dapps. i've started two small projects on the ethereum blockchain, go chek them if you are a solidity enjoyer too:
 
@@ -20,7 +21,7 @@ blockchain! i'm currently very passionate about solidity smart contracts and dap
      width="1300" 
      height="500" />
 
-something about these numbers: 
+### something about these numbers: 
 
 - C is my first language. i've used it extensively both in university and in my jobs, for more than 10 years. nonetheless most of the code present in this language card comes from a single 6 months session in 42, Rome. 
 
@@ -32,7 +33,7 @@ something about these numbers:
 
 - Tex contributions come only from a single set of sources from my graduation thesis on spin glasses.
 
-# Support :sparkling_heart:
+## Support :sparkling_heart:
 
 if you like my works (or are just happy to donate) you can throw some ether on this address 
      
@@ -40,17 +41,3 @@ if you like my works (or are just happy to donate) you can throw some ether on t
      
      0xc88beCFA206881eB4c22D610c87279976c2AFF1b
   
-<!--
-**porcherface/porcherface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
