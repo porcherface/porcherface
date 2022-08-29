@@ -7,7 +7,6 @@
 - discord: porcherface#2404
 - email: [porcherface@gmail.com](mailto:porcherface@gmail.com)
 - phone: +393201198787
-- small CV (updated 2020): [Andrea Mazzei](https://github.com/porcherface/for-science/blob/master/cv_mazzei_eng_small.pdf)
 
 ## 🔭 Now on
 
