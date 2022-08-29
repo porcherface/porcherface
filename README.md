@@ -3,10 +3,11 @@
 # Some contacts first
 
 - facebook: [Andrea Mazzei](https://www.facebook.com/andreariccetto)
+            [Solidity Devs ITA](https://www.facebook.com/groups/2967497240197165)
 - discord: porcherface#2404
 - email: [porcherface@gmail.com](mailto:porcherface@gmail.com)
 - phone: +393201198787
-
+- small CV: [Andrea Mazzei](https://github.com/porcherface/for-science/blob/master/cv_mazzei_eng_small.pdf)
 # 🔭 Now on
 
 blockchain! i'm currently very passionate about solidity smart contracts and dapps. i've started two small projects on the ethereum blockchain, go chek them if you are a solidity enjoyer too:
