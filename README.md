@@ -14,12 +14,12 @@ blockchain! i'm currently very passionate about solidity smart contracts and dap
 
   https://github.com/porcherface/conec-for : a connect4 implementation on the ethereum blockchain
   https://github.com/porcherface/attr-act  : a NFT factory on the butterfly effect
-
-<img href="https://github.com/anuraghazra/github-readme-stats"
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=porcherface&langs_count=7" 
      width="1300" 
      height="500" />
-
+</a>
 ### something about these numbers: 
 
 - C is my first language. i've used it extensively both in university and in my jobs, for more than 10 years. nonetheless most of the code present in this language card comes from a single 6 months session in 42, Rome. 
