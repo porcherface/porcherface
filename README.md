@@ -13,8 +13,9 @@
 
 blockchain! i'm currently very passionate about solidity smart contracts and dapps. i've started two small projects on the ethereum blockchain, go chek them if you are a solidity enjoyer too:
 
-  https://github.com/porcherface/conec-for : a connect4 implementation on the ethereum blockchain
-  https://github.com/porcherface/attr-act  : a NFT factory on the butterfly effect
+. https://github.com/porcherface/conec-for : a connect4 implementation on the ethereum blockchain
+. https://github.com/porcherface/attr-act  : a NFT factory on the butterfly effect
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=porcherface&langs_count=7" 
