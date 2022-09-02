@@ -44,3 +44,6 @@ if you like my works (or are just happy to donate) you can throw some ether on t
      
      0xc88beCFA206881eB4c22D610c87279976c2AFF1b
   
+ TEZOS:
+ 
+     tz1TZdzk4wFY246AYBJ56BkkHk8SXVEmgNja
