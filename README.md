@@ -3,11 +3,10 @@
 
 ## Some contacts first
 
-- facebook: [Andrea Mazzei](https://www.facebook.com/andreariccetto)
-            [Solidity Devs ITA](https://www.facebook.com/groups/2967497240197165)
-- discord: porcherface#2404
-- email: [porcherface@gmail.com](mailto:porcherface@gmail.com)
-- phone: +393201198787
+- facebook: [Solidity Devs ITA](https://www.facebook.com/groups/2967497240197165)
+- discord:  porcherface#2404
+- email:    [porcherface@gmail.com](mailto:porcherface@gmail.com)
+- phone:    +393201198787
 
 ## 🔭 Now on
 
