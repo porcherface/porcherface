@@ -5,7 +5,7 @@
 
 - facebook: [Solidity Devs ITA](https://www.facebook.com/groups/2967497240197165)
 - discord:  porcherface#2404
-- email:    [porcherface@gmail.com](mailto:porcherface@gmail.com)
+- email:    porcherface(at)very_famous_google_domain(dot)com
 - phone:    +
 
 ## 🔭 Now on
